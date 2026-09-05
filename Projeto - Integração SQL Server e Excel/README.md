@@ -1,6 +1,6 @@
 # Relatório de Resultados — Adventure Works 2013
 
-Dashboard em Excel alimentado por consultas SQL, desenvolvido a partir do curso **Hashtag Treinamentos** (SQL integrado ao Excel) e posteriormente refinado com melhorias próprias de visualização de dados.
+Dashboard em Excel alimentado por consultas SQL, desenvolvido a partir do curso **Hashtag Treinamentos** (SQL Impressionador) e posteriormente refinado com melhorias próprias de visualização de dados.
 
 ![Dashboard final](Imagem%20Dash/dashboard_final.png)
 
