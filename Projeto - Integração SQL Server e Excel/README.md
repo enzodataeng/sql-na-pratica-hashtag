@@ -48,7 +48,7 @@ O painel reúne quatro blocos de análise:
 
 ## 📚 Créditos
 
-Projeto desenvolvido durante o curso **SQL + Excel** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/), com a base de dados de exemplo **Adventure Works** (Microsoft). As consultas SQL seguem a estrutura ensinada no curso; as decisões de design do dashboard e as melhorias de visualização foram desenvolvidas de forma independente, como exercício de aprofundamento em storytelling de dados.
+Projeto desenvolvido durante o curso **SQL Impressionador** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/), com a base de dados de exemplo **Adventure Works** (Microsoft). As consultas SQL seguem a estrutura ensinada no curso; as decisões de design do dashboard e as melhorias de visualização foram desenvolvidas de forma independente, como exercício de aprofundamento em storytelling de dados.
 
 ## 🚀 Aprendizados
 
