@@ -2,7 +2,7 @@
 
 Dashboard em Excel alimentado por consultas SQL, desenvolvido a partir do curso **Hashtag Treinamentos** (SQL integrado ao Excel) e posteriormente refinado com melhorias próprias de visualização de dados.
 
-![Dashboard final](imagens/dashboard_final.png)
+![Dashboard final](Imagem%20Dash/dashboard_final.png)
 
 ## 🎯 Sobre o projeto
 
@@ -15,17 +15,16 @@ Este projeto teve como ponto de partida o curso da Hashtag Treinamentos. A estru
 - **SQL Server** — extração e tratamento da base Adventure Works
 - **Excel** — modelagem de tabelas, fórmulas e construção do dashboard
 
-## 📁 Estrutura do repositório
+## 📁 Estrutura da pasta
 
 ```
-├── sql/
-│   └── consultas_adventure_works.sql   # scripts de extração e tratamento
-├── excel/
+├── README.md
+├── SQL/
+│   └── consultas.sql                   # scripts de extração e tratamento
+├── Excel/
 │   └── dashboard_adventure_works_2013.xlsx
-├── imagens/
-│   ├── dashboard_original.png          # versão inicial (do curso)
-│   └── dashboard_final.png             # versão com melhorias aplicadas
-└── README.md
+└── Imagem Dash/
+    └── dashboard_final.png             # print do dashboard com as melhorias aplicadas
 ```
 
 ## 📊 O dashboard
